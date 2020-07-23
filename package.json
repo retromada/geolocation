@@ -1,0 +1,18 @@
+{
+  "name": "geolocation",
+  "version": "0.0.1",
+  "main": "./lib/Geolocation.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:retromada/geolocation.git"
+  },
+  "author": "retromada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retromada/geolocation/issues"
+  },
+  "homepage": "https://github.com/retromada/geolocation"
+}
