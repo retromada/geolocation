@@ -1,5 +1,5 @@
 {
-  "name": "geolocation",
+  "name": "@retromada/geolocation",
   "version": "0.0.1",
   "main": "./lib/Geolocation.js",
   "engines": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:retromada/geolocation.git"
+    "url": "git+https://github.com/retromada/geolocation.git"
   },
   "author": "retromada",
   "license": "MIT",
