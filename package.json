@@ -1,6 +1,6 @@
 {
   "name": "@retromada/geolocation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/Geolocation.js",
   "engines": {
     "node": ">=12.0.0"
