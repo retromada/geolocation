@@ -10,9 +10,5 @@
     "url": "git+https://github.com/retromada/geolocation.git"
   },
   "author": "retromada",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/retromada/geolocation/issues"
-  },
-  "homepage": "https://github.com/retromada/geolocation"
+  "license": "MIT"
 }
